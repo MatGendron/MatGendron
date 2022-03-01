@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatGendron
-- 👀 I’m interested in games, mental health collaborative cognition.
+- 👀 I’m interested in games, mental health, collaborative cognition.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on student projetcs.
 
